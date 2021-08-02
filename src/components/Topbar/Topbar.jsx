@@ -10,7 +10,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
           <a href="#intro" className="logo">.clever</a>
           <div className="itemContainer">
           <Person className="icon"/>
-          <span>+604 250 5000</span>
+          <span>+1 604 250 5000</span>
           </div>
           <div className="itemContainer">
           <Mail className="icon"/>
