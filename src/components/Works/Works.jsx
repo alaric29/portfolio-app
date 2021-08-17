@@ -57,7 +57,7 @@ const Works = () => {
                 </div>
               </div>
               <div className="right">
-                <img src="assets/design-aspects.png" alt="" />
+                <img src={d.img} alt="" />
               </div>
             </div>
           </div>

@@ -80,7 +80,10 @@
               font-weight: 600;
               text-decoration: underline;
               cursor: pointer;
+
             }
+
+
           }
         }
         .right {
@@ -89,12 +92,13 @@
           display: flex;
           align-items: center;
           justify-content: center;
+          overflow: hidden;
 
           img {
-            height: 80%;
-            width: 90%;
+            height: 100%;
+            width: 80%;
             transform: rotate(-10deg);
-            overflow: hidden;
+
           }
         }
       }
