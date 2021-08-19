@@ -23,7 +23,7 @@ const Intro = props => {
         <div className="right">
           <div className="wrapper">
             <h2>Hi There. I'm </h2>
-            <h1>Alaric Ve</h1>
+            <h1>Albert Klassen</h1>
             <h3>Freelance <span ref={textRef}></span></h3>
 
           </div>
